@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaymae Hanida</h1>
 <h3 align="center">AI Practitioner & Data Scientist | Master's Student in Machine Learning Avancé (MLAIM)</h3>
 
-- 🔭 I'm currently working on* 🔭 I'm currently working on deploying my [Credit Scoring Model](https://github.com/CHAYMAEHANIDA123/CreditScoringModel) as a web app
+- 🔭 I'm currently working on deploying my [Credit Scoring Model](https://github.com/CHAYMAEHANIDA123/CreditScoringModel) as a web app
 
 - 🌱 I'm currently learning **Deep Learning, Computer Vision, and Big Data (Apache Spark)**
 
