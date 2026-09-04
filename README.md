@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaymae Hanida</h1>
 <h3 align="center">AI Practitioner & Data Scientist | Master's Student in Machine Learning Avancé (MLAIM)</h3>
 
-- 🔭 I'm currently working on [Phishing Website Detection using Machine Learning](https://github.com/CHAYMAEHANIDA123/phishing-website-detection-ml)
+- 🔭 I'm currently working on [Smart Waste Management System](https://github.com/CHAYMAEHANIDA123/SMART-WASTE-MANAGEMENT-SYSTEM)
 
 - 🌱 I'm currently learning **Deep Learning, Computer Vision, and Big Data (Apache Spark)**
 
